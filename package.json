@@ -1,0 +1,14 @@
+{
+  "name": "gsap-layout-color-spectrum",
+  "version": "1.0.0",
+  "description": "GSAP Color Spectrum Layout",
+  "main": "script.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}

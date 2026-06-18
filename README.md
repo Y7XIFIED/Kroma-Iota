@@ -1,6 +1,6 @@
-# CHROMATIC PULSE
+# KROMA
 
-Live Demo: [https://chromatic-pulse.vercel.app](https://chromatic-pulse.vercel.app)
+Live Demo: [https://kroma.vercel.app](https://kroma.vercel.app)
 
 ## Local Development
 To run this project locally, make sure you have Node.js installed, then run the following commands:

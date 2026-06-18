@@ -10,3 +10,5 @@ npm run dev
 ```
 
 Made by Y7XIFIED
+
+![Preview Demo](preview.gif)

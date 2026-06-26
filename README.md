@@ -1,14 +1,13 @@
-# KROMA IOTA
+<h3 align="center"><b>KROMA-IOTA</b></h3>
 
-Live Demo: [https://kroma-iota.vercel.app](https://kroma-iota.vercel.app)
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite" /></p>
 
-## Local Development
-To run this project locally, make sure you have Node.js installed, then run the following commands:
-```bash
-npm install
-npm run dev
-```
+Get ready to be amazed! This project is a beautiful web experiment pushing the boundaries of what is possible in the browser.
 
-Made by Y7XIFIED
+## 🚀 Live Website
+Experience the fully interactive website live here: [https://kroma-iota.vercel.app](https://kroma-iota.vercel.app)
 
+## Preview
 ![Preview Demo](preview.gif)
+
+<div align="center"><p>Y7XIFIED</p></div>

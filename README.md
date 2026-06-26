@@ -18,8 +18,8 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
 ### Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/Y7XIFIED/kroma-iota.git
-cd kroma-iota
+git clone https://github.com/Y7XIFIED/Kroma-Iota.git
+cd Kroma-Iota
 ```
 2. Install the package dependencies:
 ```bash
@@ -32,7 +32,7 @@ npm run dev
 
 ## 📂 Project Structure
 ```text
-kroma-iota/
+Kroma-Iota/
 ├── .gitignore
 ├── .vercel
 │   ├── project.json

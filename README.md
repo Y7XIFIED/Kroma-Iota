@@ -5,7 +5,7 @@
 Get ready to be amazed! This project is a beautiful web experiment pushing the boundaries of what is possible in the browser.
 
 ## 🚀 Live Website
-Experience the fully interactive website live here: [https://kroma-iota.vercel.app](https://kroma-iota.vercel.app)
+Experience the fully interactive website live here: [Live Demo](https://kroma-iota.vercel.app)
 
 ## Preview
 ![Preview Demo](preview.gif)
